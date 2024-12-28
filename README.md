@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: forgetting to close files after opening them.  The `bug.py` file shows the problematic code, and `bugSolution.py` provides a corrected version.  Properly closing files is crucial for resource management and data integrity.
